@@ -1,36 +1,54 @@
-# 📊 Ecommerce Sales Dashboard – Power BI
+# Ecommerce Sales Report – Power BI
 
-This Power BI project analyzes ecommerce sales data to uncover key business insights. The dashboard visualizes sales performance by state, customer, category, and payment mode, along with monthly profit trends.
+This interactive Power BI dashboard provides end-to-end analysis of ecommerce performance metrics to support data-driven decision-making. 
+It offers visual insights into sales, profit, quantity, customer behavior, and product trends.
 
-##  Features
-- 💰 KPIs: Total Sales Amount, Profit, Quantity Sold, Average Order Value
-- 📍 Geographical Breakdown: Sales by State
-- 👤 Customer Analysis: Sales by Customer
-- 🛒 Product Analysis: Quantity by Category, Profit by Sub-Category
-- 💳 Payment Trends: Quantity by Payment Mode
-- 📆 Time-Series Analysis: Monthly Profit Trends
-- 🔄 Dynamic Filters: Quarter-wise slicers for time-based comparisons
+---
 
-##  Tech Stack
-- Power BI Desktop
-- Excel/CSV data source (simulated ecommerce sales)
-- DAX & Power Query for data transformation
+##  Key Insights from the Dashboard
 
-##  Use Case
-This dashboard can support ecommerce stakeholders in identifying:
-- Top-performing states and customers
-- Best-selling product categories and sub-categories
-- Seasonal profit variations
-- Popular payment modes
+- **Total Sales Amount**: ₹438K  
+- **Total Profit**: ₹37K  
+- **Total Quantity Sold**: 5615 units  
+- **Average Order Value**: ₹121K  
 
-##  Getting Started
+###  Sales Breakdown
+
+- **By State**: Maharashtra and Madhya Pradesh lead in sales  
+- **By Payment Mode**: Cash on Delivery (44%) is the most preferred method  
+- **By Customer Name**: Harivansh, Madhav, and Madan Mohan are top buyers  
+- **By Category**: Clothing dominates with 63% of total quantity sold  
+- **By Sub-Category (Profit)**: Printers, Bookcases, and Sarees yield the highest profits  
+- **By Month (Profit Trend)**: Strong profits in Jan–March and November, losses observed in mid-year months like May and July  
+
+---
+
+##  Tools Used
+
+- Power BI  
+- Excel (CSV dataset)  
+- DAX & Power Query  
+
+---
+
+##  Files
+
+- Ecommerce Sales Reprt.pbix – Full interactive report  
+- ER.png – Report preview image
+- Details & Orders.csv - Datasets
+
+---
+
+##  How to Use
+
 1. Download the .pbix and csv files
-2. Open in Power BI Desktop
-3. Refresh data (if using local source) or connect to updated dataset
+2. Open it using Power BI Desktop  
+3. Interact with filters to explore trends across different dimensions  
 
-
+---
 
 ##  Author
-**Shalini N** 
-LinkedIn Profile:- https://www.linkedin.com/in/shaliningowda
+
+- **Shalini N**  
+- LinkedIn:- https://www.linkedin.com/in/shaliningowda
 
